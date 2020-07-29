@@ -1,0 +1,48 @@
+.parallax_section1 {
+  height: 150px;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+  background-position: 100%;
+  position: relative; }
+
+.parallax_section2 {
+  min-height: 250px;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+  background-position: 100%;
+  position: relative; }
+
+.parallax_image {
+  background-image: url(img/parallax.jpg); }
+
+.row {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around; }
+
+.card {
+  margin: 20px 10px 20px 10px;
+  padding: 20px 20px 20px 20px;
+  max-width: 80vw;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.8); }
+
+img {
+  border-radius: 5px;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.8); }
+
+/*# sourceMappingURL=style.css.map */
+
+/*
+Theme Name: CodeFactory
+Theme URI: https://www.codefactory.live
+Author: the CodeFactory Team
+Author URI: https://www.codefactory.wien
+Description: My first theme
+Version: 1.0
+License: GNU General Public License v2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+Text Domain: CodeFactory
+Tags: responsive, exciting, compatible
+*/
